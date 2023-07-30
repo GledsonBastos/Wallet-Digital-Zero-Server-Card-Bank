@@ -6,7 +6,7 @@ Technological exhibition application interface
 
 Artificial intelligence system integrated°_°built-in.
 
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://m.youtube.com/watch?v=tsdyjGJOCWc&t=10s)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://m.youtube.com/watch?v=tsdyjGJOCWc&t=10s)[![meweb](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sites.google.com/view/synchronizeservidorzero/)
 
 | Sistema | Youtube |
 |--|--|
