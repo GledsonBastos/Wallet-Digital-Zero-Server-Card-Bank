@@ -19,4 +19,4 @@ Artificial intelligence system integrated°_°built-in.
 
 ![GledsonBastos GitHub stats](https://github-readme-stats.vercel.app/api?username=GledsonBastos&show_icons=true&theme=radical)
 
-[![GledsonBastos](https://github-readme-stats.vercel.app/api/top-langs/?username=GledsonBastos&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GledsonBastos&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
