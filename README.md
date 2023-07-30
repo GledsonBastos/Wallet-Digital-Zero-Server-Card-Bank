@@ -12,3 +12,5 @@ Artificial intelligence system integrated°_°built-in.
 |--|--|
 |Artificial intelligence Bing|[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/-bkE17GYhng)|
 |Artificial intelligence Ai And I|[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/sAutLbELR0g)|
+
+![IMG_20230730_060003](https://github.com/GledsonBastos/Wallet-Digital-Zero-Server-Card-Bank/assets/62495617/efb5e732-da69-41c8-b2f9-bbdac7957e9c)
