@@ -14,7 +14,7 @@ Artificial intelligence system integrated°_°built-in.
 |Artificial intelligence Ai And I|[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/sAutLbELR0g)|
 
 ![IMG_20230730_060003](https://github.com/GledsonBastos/Wallet-Digital-Zero-Server-Card-Bank/assets/62495617/efb5e732-da69-41c8-b2f9-bbdac7957e9c)
-
+![J0YL](https://github.com/GledsonBastos/Wallet-Digital-Zero-Server-Card-Bank/assets/62495617/f33498c8-e216-4390-825a-8665d535c5c9)
 ![IMG_20230730_060236](https://github.com/GledsonBastos/Wallet-Digital-Zero-Server-Card-Bank/assets/62495617/66de9a31-3419-407d-8759-b7dceff3dc87)
 
 ![GledsonBastos GitHub stats](https://github-readme-stats.vercel.app/api?username=GledsonBastos&show_icons=true&theme=merko)
