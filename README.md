@@ -19,5 +19,3 @@ Artificial intelligence system integrated°_°built-in.
 
 ![GledsonBastos GitHub stats](https://github-readme-stats.vercel.app/api?username=GledsonBastos&show_icons=true&theme=merko)
 
-[![github-readme-twitter](https://github-readme-twitter.GledsonBastos.vercel.app/api?id=gledso_bastos)](https://github.com/GledsonBastos/github-readme-twitter)
-
