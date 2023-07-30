@@ -8,6 +8,6 @@ Artificial intelligence system integrated°_°built-in.
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://m.youtube.com/watch?v=tsdyjGJOCWc&t=10s)
 
-| Nombre | Youtube |
+| Sistema | Youtube |
 |--|--|
-|Básicos de un portafolio|
+|Artificial intelligence Bing|
