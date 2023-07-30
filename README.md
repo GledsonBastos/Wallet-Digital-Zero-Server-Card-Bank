@@ -11,4 +11,4 @@ Artificial intelligence system integrated°_°built-in.
 | Sistema | Youtube |
 |--|--|
 |Artificial intelligence Bing|[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/-bkE17GYhng)|
-|Artificial intelligence Bing|
+|Artificial intelligence Ai And I|[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/sAutLbELR0g)|
