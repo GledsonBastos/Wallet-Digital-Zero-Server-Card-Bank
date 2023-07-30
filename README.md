@@ -16,3 +16,5 @@ Artificial intelligence system integrated°_°built-in.
 ![IMG_20230730_060003](https://github.com/GledsonBastos/Wallet-Digital-Zero-Server-Card-Bank/assets/62495617/efb5e732-da69-41c8-b2f9-bbdac7957e9c)
 
 ![IMG_20230730_060236](https://github.com/GledsonBastos/Wallet-Digital-Zero-Server-Card-Bank/assets/62495617/66de9a31-3419-407d-8759-b7dceff3dc87)
+
+![GledsonBastos GitHub stats](https://github-readme-stats.vercel.app/api?username=GledsonBastos&show_icons=true&theme=radical)
