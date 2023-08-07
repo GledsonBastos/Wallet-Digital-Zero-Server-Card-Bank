@@ -1,6 +1,6 @@
 # Wallet-Digital-Zero-Server-Card-Bank
 [![NPM](https://img.shields.io/npm/l/react)]
-![images (5)~2](https://github.com/GledsonBastos/Wallet-Digital-Zero-Server-Card-Bank/assets/62495617/c4cf06ab-7938-4ca7-af25-4ba15397e039)
+![images (2)~2](https://github.com/GledsonBastos/Wallet-Digital-Zero-Server-Card-Bank/assets/62495617/c4cf06ab-7938-4ca7-af25-4ba15397e039)
 (https://github.com/GledsonBastos/Zero-Server-Card-Bank-/blob/61fe2ad49374ccc58ebc32cad8e3c71ba4eb04d3/LICENSE)
 
 Technological exhibition application interface
