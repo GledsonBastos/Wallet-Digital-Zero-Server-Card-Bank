@@ -2,9 +2,7 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/GledsonBastos/Zero-Server-Card-Bank-/blob/61fe2ad49374ccc58ebc32cad8e3c71ba4eb04d3/LICENSE)
 
 
-<table border="0">
-<tr>
-<td>
+
   <div style="margin-right: 20px">
  <a href="https://sites.google.com/view/synchronizeservidorzero/" title="Zero Server Card Bank">
   <img style="border-radius: 50%;" src="https://github.com/GledsonBastos/Wallet-Digital-Zero-Server-Card-Bank/assets/62495617/b34726bf-0a74-4cf3-99f0-bc437882c241" width="100px;" alt="Zero Server Card Bank">
