@@ -7,6 +7,7 @@
   <a href="https://sites.google.com/u/0/d/1Nn_9EppRNIzqUpamtYgKD4fcnbntswG0/preview/" title="Zero Server Card Bank">
   <img style="border-radius: 50%;" src="https://github.com/GledsonBastos/Wallet-Digital-Zero-Server-Card-Bank/assets/62495617/b34726bf-0a74-4cf3-99f0-bc437882c241" width="100px;" alt="Zero Server Card Bank">
   <br />
+  </div>
   
 Technological exhibition application interface
 ![GridArt_20230728_033208686](https://github.com/GledsonBastos/Wallet-Digital-Zero-Server-Card-Bank/assets/62495617/4f8e39ee-66a8-41bd-a2b3-7fb55b698888)
